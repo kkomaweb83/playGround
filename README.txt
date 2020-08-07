@@ -9,3 +9,6 @@
 
 개발 시간
 종일
+
+한글설정
+git config --global i18n.logOutputEncoding utf-8
