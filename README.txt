@@ -13,3 +13,5 @@
 
 한글설정
 git config --global i18n.logOutputEncoding utf-8
+
+Visual Studio Code 에서 github 사용하기
